@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
   gap: 30px;
+  margin-top:70px;
 }
 
 .main-content .heroes-section .heroes-dropdown .content-wrapper {
